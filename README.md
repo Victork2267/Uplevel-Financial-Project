@@ -1,2 +1,2 @@
-# Uplevel-FinancialProject
-Machining Learning on edgar forms to predict stock movement
+# Uplevel-Financial Project
+Machine Learning on edgar forms to predict stock movement
